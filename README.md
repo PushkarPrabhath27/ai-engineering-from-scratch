@@ -4,27 +4,23 @@ A Codespaces-friendly learning repo for everything I build and learn while worki
 
 ## How this repo is organized
 
-- `notes/concepts/`: core ideas, terms, and mental models
-- `notes/patterns/`: reusable patterns, architecture choices, and implementation approaches
-- `notes/playbooks/`: repeatable workflows and procedures
-- `experiments/`: small throwaway proofs of concept and tests of ideas
-- `projects/`: larger builds that turn lessons into working software
-- `resources/`: links, references, and curated reading lists
-- `templates/`: note and project starter templates
+The repo is organized by module. Each numbered folder is one module from the course.
+
+- `00-setup-and-tooling/`: environment, dev tools, Codespaces
+- `01-python-basics/`: core Python concepts
+- `02-llms/`: working with large language models
+- `03-prompts/`: prompt design and evaluation
+- `04-embeddings/`: vectors and similarity
+- `05-rag/`: retrieval-augmented generation
+- `06-agents/`: agents and tool use
+- `07-fastapi/`: serving AI features over HTTP
+- `08-docker/`: containerizing AI services
+- `notes/`: cross-module notes and references
 
 ## Codespaces workflow
 
-Open the repo in Codespaces and work from Python by default. Keep new learning artifacts small and specific, then move anything reusable into a note, pattern, or project folder.
+Open the repo in Codespaces and work from Python by default. Keep new learning artifacts inside the matching module folder.
 
 ## Suggested habit
 
-When you learn something new, store it in this order:
-
-1. A short note in `notes/concepts/`
-2. A reusable pattern in `notes/patterns/` if it appears more than once
-3. A playbook in `notes/playbooks/` if it is a repeatable process
-4. A project or experiment if it needs code
-
-## Starting point
-
-Use `templates/note-template.md` for new notes.
+When you learn something new, drop it into the matching module folder. Use `notes/` only for ideas that span multiple modules.
