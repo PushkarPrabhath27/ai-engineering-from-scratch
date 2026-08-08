@@ -1260,3 +1260,9 @@ MIT. 원하는 대로 쓰세요. 포크하고, 가르치고, 팔고, 배포하�
   <a href="https://aiengineeringfromscratch.com">aiengineeringfromscratch.com</a> &nbsp;·&nbsp;
   <a href="https://github.com/rohitg00/ai-engineering-from-scratch/issues/new/choose">Report / Suggest</a>
 </sub>
+
+---
+
+## Personal notes
+
+This fork follows the official [AI Engineering From Scratch](https://github.com/rohitg00/ai-engineering-from-scratch) curriculum. Personal notes, references, and ideas that don't belong to a single lesson are stored separately in [`notes/personal/`](../../notes/personal/).

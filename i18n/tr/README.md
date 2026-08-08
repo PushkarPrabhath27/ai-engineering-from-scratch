@@ -1260,3 +1260,9 @@ MIT. İstediğiniz gibi kullanın: çatallayın, öğretin, satın, yayımlayın
   <a href="https://aiengineeringfromscratch.com">aiengineeringfromscratch.com</a> &nbsp;·&nbsp;
   <a href="https://github.com/rohitg00/ai-engineering-from-scratch/issues/new/choose">Report / Suggest</a>
 </sub>
+
+---
+
+## Personal notes
+
+This fork follows the official [AI Engineering From Scratch](https://github.com/rohitg00/ai-engineering-from-scratch) curriculum. Personal notes, references, and ideas that don't belong to a single lesson are stored separately in [`notes/personal/`](../../notes/personal/).
